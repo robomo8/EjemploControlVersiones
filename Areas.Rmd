@@ -23,3 +23,11 @@ Lado <- 3
 AreaCuadrado <- Lado^"
 ```
 
+#Area Triangulo
+
+```{r}
+base <-1
+altura <- 2
+AreaTriangulo <- (base*altura) /2
+```
+
