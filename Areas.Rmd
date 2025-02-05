@@ -39,3 +39,12 @@ ancho <- 3
 AreaRectangulo <- largo*ancho
 ```
 
+#Area Trapecio
+```{r}
+
+b <- 1
+B <- 2
+H <- 3
+area_trapecio <- (0.5 * (b + B) * H)
+
+```
