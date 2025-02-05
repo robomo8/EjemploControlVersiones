@@ -7,5 +7,5 @@ longitud_circunferencia <- function(radio) {
 }
 
 PerimetroRectangulo<- function(L,l) {
-  return(2*L+2*l)
+  return(2*(L+1)
 }
